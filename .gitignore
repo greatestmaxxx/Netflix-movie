@@ -19,8 +19,8 @@ lerna-debug.log*
 *.sln
 *.sw?
 
-.env           #common
-.env.local     #local only
+.env           
+.env.local    
 .env.production
 .env.development
 
